@@ -1,23 +1,30 @@
-
+<h1 align="center">🎨 FlutterFlow Components 🚀</h1>
 <p align="center">
-  <img src="https://your-library-logo-url.png" alt="Library Logo" width="150">
+  <img src="https://github.com/Syf-Almjd/flutterflow_components/blob/master/assets/logo.png?raw=true" alt="Library Logo" width="300">
 </p>
 
-# FlutterFlow Components
 
-![Pub Version](https://img.shields.io/pub/v/flutterflow_components)
-![GitHub](https://img.shields.io/github/license/Syf-Almjd/flutterflow_components)
-![GitHub stars](https://img.shields.io/github/stars/Syf-Almjd/flutterflow_components?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Syf-Almjd/flutterflow_components?style=social)
+<div align="center"> 
+
+![Pub status](https://img.shields.io/badge/STATUS-WIP-orange?style=for-the-badge&amp;color=blue)
+![GitHub license](https://img.shields.io/github/license/Syf-Almjd/flutterflow_components?style=for-the-badge)
+![Pub version forks](https://img.shields.io/pub/v/flutterflow_components?style=for-the-badge)
+
+[![Pub Package](https://img.shields.io/pub/v/flutterflow_components?label=Pub&logo=dart)](https://pub.dev/packages/flutterflow_components)
+[![Star on Github](https://img.shields.io/github/stars/Syf-almjd/flutterflow_components.svg?style=flat&logo=github&colorB=deeppink&label=Stars)](https://github.com/Syf-Almjd/flutterflow_components)
+[![Forks on Github](https://img.shields.io/github/forks/Syf-almjd/flutterflow_components?style=flat&logo=github&colorB=deeppink&label=Forks&logo=github)](https://github.com/Syf-Almjd/flutterflow_components)
+[![Contributors](https://img.shields.io/github/contributors/Syf-almjd/flutterflow_components.svg?style=flat&logo=github&colorB=yellow&label=Contributors)](https://github.com/Syf-Almjd/flutterflow_components)
+[![Code Size](https://img.shields.io/github/languages/code-size/Syf-almjd/flutterflow_components?logo=github&color=blue&label=Size)](https://github.com/Syf-Almjd/flutterflow_components)
+[![License: MIT](https://img.shields.io/github/license/Syf-almjd/flutterflow_components?label=License&color=red&logo=Leanpub)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS%20-blue.svg?logo=flutter)](https://pub.dev/packages/flutterflow_components)
+
+</div>
+
 
 <p align="center">
   A collection of delightful Flutter components for building beautiful and responsive user interfaces.
 </p>
 
-<p align="center">
-  <img src="https://your-library-screenshot-1.png" alt="Screenshot 1" width="250">
-  <img src="https://your-library-screenshot-2.png" alt="Screenshot 2" width="250">
-</p>
 
 ## Features
 
@@ -30,13 +37,13 @@
 - 🚀 Loading and Skeleton Widgets
 - ... and much more!
 
-## Installation
+## 📗 Installation
 
 Add the following line to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutterflow_components: ^1.0.0
+  flutterflow_components: <check latest version>
 ```
 
 Then run:
@@ -45,21 +52,21 @@ Then run:
 $ flutter pub get
 ```
 
-## Usage
+## 🗜️ Usage
 
 Import the library in your Dart file:
 
 ```dart
-import 'package:flutterflow_components/flutterflow_components.dart';
+import 'package:flutterflow_components/flutterflow_components.dart' as components;
 ```
 
 Now you can start using the various components provided by `flutterflow_components` to enhance your Flutter app!
 
-## Example
+## 🈂️ Example
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutterflow_components/flutterflow_components.dart';
+import 'package:flutterflow_components/flutterflow_components.dart' as components;
 
 void main() {
   runApp(MyApp());
@@ -76,7 +83,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text(
             'Welcome to FlutterFlow Components!',
-            style: getBoldStyle(),
+            style: components.getBoldStyle(), //This (components.) allows you to access all components
           ),
         ),
       ),
@@ -85,23 +92,53 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-## Documentation
 
-For detailed documentation and examples, visit the [official documentation](https://your-documentation-link).
+## 🧾 Documentation
 
-## Contributing
+Explore detailed documentation and examples by visiting the [official documentation](https://pub.dev/packages/flutterflow_components/example). Whether you're a beginner or an experienced developer, this resource provides valuable insights into effectively using FlutterFlow Components.
 
-We welcome contributions! Please read the [Contribution Guide](CONTRIBUTING.md) for details on how to contribute to this project.
+### Features:
 
-## License
+- **Comprehensive Examples:** Dive into a rich collection of examples showcasing various use cases and implementation scenarios.
+- **Integration Guides:** Find step-by-step guides and best practices for seamless integration of FlutterFlow Components into your Flutter projects.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Connect with Us
+## 🤙 Contributing
 
-- Follow us on Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Join our community on Discord: [Discord Link](https://your-discord-invite-link)
+We actively encourage and appreciate contributions from the community! To get started, please read our [Contribution Guide](https://github.com/Syf-Almjd/flutterflow_components/issues). This guide outlines the process of contributing, coding standards, and how to submit pull requests. Your input is valuable in enhancing and expanding FlutterFlow Components.
 
-Happy coding! 🚀✨
-```
+### How to Contribute:
+
+1. **Fork the Repository:** Start by forking the repository to your GitHub account.
+2. **Create a Branch:** Create a new branch for your contribution to keep your changes isolated.
+3. **Make Changes:** Implement your improvements or fixes, following the guidelines in the Contribution Guide.
+4. **Submit a Pull Request:** Once your changes are ready, submit a pull request, and we'll review it promptly.
+
+
+## 💳 License
+
+This project is licensed under the MIT License, a widely recognized open-source license that promotes flexibility and collaboration. The MIT License allows you the freedom to use, modify, and distribute FlutterFlow Components in your projects, both personal and commercial.
+
+### Key Points:
+
+- **Permissions:** You are granted extensive permissions under the MIT License, including the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+
+- **Attribution:** While not required, it is appreciated if you include the original copyright notice and the disclaimer when you redistribute the software or substantial portions of it.
+
+### Full Details:
+
+For full details and legal terms, please refer to the [LICENSE](LICENSE) file included with this project. It's important to review the license to understand your rights and responsibilities.
+
+Feel confident incorporating FlutterFlow Components into your projects, knowing that you have the freedom and flexibility to adapt and share the software according to your needs.
+
+
+## 🛎️ Connect with Us
+
+Stay connected with us through the following channels:
+
+- **Github:** Follow us on Github at [@Syf-Almjd](https://github.com/Syf-Almjd) for updates and announcements.
+- **Developer Portfolio:** Connect with the developer, SaifAlmajd, via their portfolio at [SaifAlmajd](https://saifalmajd.web.app/).
+
+<p align="center">Happy Flutter Coding! 🚀✨</p>
+
 

@@ -1,3 +1,3 @@
-## 0.0.1
 
-* TODO: Describe initial release.
+### Version 0.1.0
+- Initial release of the Components, providing seamless of UI and UX user experience.
