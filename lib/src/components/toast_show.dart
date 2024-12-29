@@ -7,7 +7,7 @@ import 'package:flutter_icon_snackbar/flutter_icon_snackbar.dart';
 /// - [type]: The type of the snackbar (success, error, info, warning).
 /// - [context]: The build context.
 void showToast(String text, SnackBarType type, context) => IconSnackBar.show(
-      context: context,
+      context,
       snackBarType: type,
       label: text,
     );
