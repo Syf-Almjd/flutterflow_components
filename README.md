@@ -131,14 +131,43 @@ For full details and legal terms, please refer to the [LICENSE](LICENSE) file in
 
 Feel confident incorporating FlutterFlow Components into your projects, knowing that you have the freedom and flexibility to adapt and share the software according to your needs.
 
+## 🛎️ Connect with SaifAlmajd
+<h3 align="center">SaifAlmajd - Passionate of Full Stack Mobile/Web Development</h3>
+<p align="center"> <a href="https://instagram.com/saif_almajd" target="blank"><img src="https://img.shields.io/twitter/follow/SaifAlmajd?logo=instagram&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://github.com/Syf-Almjd" target="blank"><img src="https://img.shields.io/twitter/follow/Syf-Almjd?logo=github&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://www.linkedin.com/in/saif-almajd/" target="blank"><img src="https://img.shields.io/twitter/follow/SaifAlmajd?logo=linkedin&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://twitter.com/hsaifalmajd" target="blank"><img src="https://img.shields.io/twitter/follow/hsaifalmajd?logo=twitter&style=for-the-badge" alt="hsaifalmajd" /></a>
+<a href="https://pub.dev/publishers/saifalmajd.blogspot.com/packages" target="blank"><img src="https://img.shields.io/twitter/follow/saifalmajd?logo=dart&style=for-the-badge" alt="saifalmajd" /></a>
+</p>
 
-## 🛎️ Connect with Us
 
-Stay connected with us through the following channels:
 
+
+<!-- Stay connected with us through the following channels: -->
+<!-- 
 - **Github:** Follow us on Github at [@Syf-Almjd](https://github.com/Syf-Almjd) for updates and announcements.
-- **Developer Portfolio:** Connect with the developer, SaifAlmajd, via their portfolio at [SaifAlmajd](https://saifalmajd.web.app/).
+- **Developer Portfolio:** Connect with the developer, SaifAlmajd, via their portfolio at [SaifAlmajd](https://saifalmajd.web.app/). -->
+
+
+<!-- <h3 align="center">Connect with Me:</h3> -->
+<p align="center">
+<!-- <a href="https://dev.to/https://dev.to/saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/saifalmajd" height="30" width="40" /></a> -->
+<a href="https://twitter.com/hsaifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsaifalmajd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saif-almajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-almajd" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19370215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19370215" height="30" width="40" /></a>
+<a href="https://instagram.com/saif_almajd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saif_almajd/" height="30" width="40" /></a>
+<a href="https://dribbble.com/saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="saifalmajd" height="30" width="40" /></a>
+<a href="https://hashnode.com/@saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@saifalmajd" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/syfalm4h6f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="syfalm4h6f" height="30" width="40" /></a>
+<a href="/https://github.com/syf-almjd.atom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/syf-almjd.atom" height="30" width="40" /></a>
+</p>
+
 
 <p align="center">Happy Flutter Coding! 🚀✨</p>
 
+## 🔥 Support FF_Components Dev.
+
+<p align="center"> <a href="https://www.buymeacoffee.com/saifalmajdalmassri"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saifalmajdalmassri" /></a><a href="https://ko-fi.com/saifalmajdalmassri"> &nbsp; <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/saifalmajdalmassri" 
+
+<p align="center">Happy Flutter Coding! 🚀✨</p>
+
+
+/></a></p><br><br>
 
